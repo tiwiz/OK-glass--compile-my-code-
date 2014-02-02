@@ -16,6 +16,6 @@ Author
 
 [Roberto Orgiu]:mailto:roberto@orgiu.net?subject=DroidCon%20Italy%202014
 [Google's samples]:https://github.com/googleglass/
-[here]:http://work.in.progress
+[here]:https://github.com/tiwiz/OK-glass--compile-my-code-/blob/master/DroidCon_Italy_OK-Glass.pdf
 [HelloWorld project]:https://code.google.com/p/hello-world-google-glass/
 [StackOverflow user IsabelHM]:http://stackoverflow.com/users/2777098/isabelhm
