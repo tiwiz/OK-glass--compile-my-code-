@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Hello DroidCon</string>
+    <string name="hello">Hello DroidCon Italy!</string>
+    <string name="show_helloworld_voice_trigger">show me something</string>
+    <string name="read_aloud">Say Hi</string>
+    <string name="stop">Stop app</string>
+
+</resources>
