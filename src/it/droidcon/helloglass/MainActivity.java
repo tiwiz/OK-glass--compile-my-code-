@@ -53,7 +53,9 @@ public class MainActivity extends Activity {
     }
 
     private void speak(){
-        textToSpeech.speak(getString(R.string.read_aloud),TextToSpeech.QUEUE_FLUSH,null);
+        textToSpeech.speak(getString(R.string.read_aloud),
+                TextToSpeech.QUEUE_FLUSH,
+                null);
     }
 
     private void addCard(){
